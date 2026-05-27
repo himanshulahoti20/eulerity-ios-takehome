@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "CD3F0DF5-F920-4361-B1D3-C5934D39617A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DynamicFormDemo.xcodeproj",
+      "identifier" : "929661F62FC60FD300611EC2",
+      "name" : "DynamicFormDemo"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:DynamicFormDemo.xcodeproj",
+        "identifier" : "929662032FC60FD500611EC2",
+        "name" : "DynamicFormDemoTests"
+      }
+    }
+  ],
+  "version" : 1
+}
